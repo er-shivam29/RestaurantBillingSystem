@@ -18,3 +18,6 @@ A simple console-based Restaurant Billing System built using Java.
 ## Author
 
 Shivam Sahu
+## Program Output
+
+![Restaurant Billing System Output](restaurant-output.png)
